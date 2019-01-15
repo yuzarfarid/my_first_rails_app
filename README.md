@@ -23,6 +23,6 @@ Things you may want to cover:
 
 * This is not real note
 
-* This is not real note 2
+* This is not real note 3
 
 * ...
