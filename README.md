@@ -21,6 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* This is note real note
+* This is not real note
+
+* This is not real note 2
 
 * ...
